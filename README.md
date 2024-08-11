@@ -8,7 +8,12 @@
 -->
 
 # Communicate using Markdown
-
+# Hi
+## hello
+### damn
+#### wow
+##### crazy
+###### tiny
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
